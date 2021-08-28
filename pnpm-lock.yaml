@@ -12,6 +12,7 @@ specifiers:
   '@vueuse/head': ^0.6.0
   critters: ^0.0.10
   cross-env: ^7.0.3
+  css-doodle: ^0.19.2
   eslint: ^7.32.0
   https-localhost: ^4.6.5
   markdown-it-link-attributes: ^3.0.0
@@ -40,6 +41,7 @@ specifiers:
 dependencies:
   '@vueuse/core': 6.0.0_vue@3.2.6
   '@vueuse/head': 0.6.0_vue@3.2.6
+  css-doodle: 0.19.2
   nprogress: 0.2.0
   pinia: 2.0.0-rc.6_typescript@4.3.5+vue@3.2.6
   prism-theme-vars: 0.2.2
@@ -2537,6 +2539,10 @@ packages:
     resolution: {integrity: sha512-v1plID3y9r/lPhviJ1wrXpLeyUIGAZ2SHNYTEapm7/8A9nLPoyvVp3RK/EPFqn5kEznyWgYZNsRtYYIWbuG8KA==}
     engines: {node: '>=8'}
     dev: true
+
+  /css-doodle/0.19.2:
+    resolution: {integrity: sha512-7FqC1GGep/jswoPkv0n4LpfqRXs1qNjZVgiLHv0OPbQDMovfb/SGnazcjLfZNd5j6Vk2iF+uH/lj5ARVsSNKIw==}
+    dev: false
 
   /css/3.0.0:
     resolution: {integrity: sha512-DG9pFfwOrzc+hawpmqX/dHYHJG+Bsdb0klhyi1sDneOgGOXy9wQIC8hzyVp1e4NRYDBdxcylvywPkkXCHAzTyQ==}
